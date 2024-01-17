@@ -1,10 +1,5 @@
 # Connect4_Wordle
-# cs-project
-Group members:
-Kaur Ishika - 3035781706
-Lee Guan Bo Ambrose - 3035926332
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Description of game:
 The game will be *Connect4 with a twist of Wordle*. 
  
